@@ -1,0 +1,27 @@
+1° Fase:
+- Agente simples com langchain  e langgrahph : ok
+- Agente entendendo o prompt inicial: ok
+- Agente entendendo rag e prompt inicial: ok
+----------------------------------------------------------------------
+
+2° Fase:
+- Agente sendo coordenado com langgrph usando langchain nos nós
+e o nó do agente principal com memoria usando langmem: falta
+- Agente com os 3langs(graph,chain,mem)
+----------------------------------------------------------------------
+
+3° Fase:
+- Agente com acesso a tools: falta
+    I. Tool de data e hora.
+    II. Calculadora
+    III.Tool de webscrapper
+    IV.Tools de Pesquisa na web
+    V. Tools para o mdelo poder gerar pdf,csv e txt com qualquer texto do usuario ou resultado das demais ferramentas.
+
+- Agente com decidindo como responde o usuario base de conhecimento,
+prompt e rag ou se usa uma ferramenta(tools).: falta
+----------------------------------------------------------------------
+4° Fase
+- Um novo agente especialista em ver imagens.: falta
+- Multiagentes: Agente principal que já: Responde o usuario base de conhecimento, 
+prompt e rag ou se usa uma ferramenta(tools) ou se chama o agente especialista. : falta

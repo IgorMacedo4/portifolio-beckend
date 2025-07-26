@@ -1,0 +1,18 @@
+# Dependências principais
+python-dotenv
+tiktoken
+pydantic
+
+# Ecossistema LangChain / LangGraph
+langchain
+langchain-community
+langchain-groq
+langgraph
+langchain-huggingface
+langchain-chroma
+langmem
+
+# RAG
+chromadb
+sentence-transformers
+

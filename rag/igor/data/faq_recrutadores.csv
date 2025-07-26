@@ -1,0 +1,11 @@
+pergunta,resposta,categoria
+"Quais habilidades do Igor?","Automação em Python, Web‑Scraping, agentes IA com LangChain e LangGraph, integrações Google Drive / Mercado Livre / OpenAI / Gemini, Visão Computacional com YOLO v8 fine‑tuned. Habilidades secundárias: React, Tailwind, Flutter, DevOps.",habilidades
+"Onde ele estuda?","Cursa Análise e Desenvolvimento de Sistemas na Fatec Bragança Paulista (2021–2025, conclusão prevista 2025).",educacao
+"Quais suas formações?","Análise e Desenvolvimento de Sistemas — Fatec Bragança Paulista (em curso, conclusão 2025).",educacao
+"Quais experiências profissionais?","1) Desenvolvedor Python na ABL focado em chatbots jurídicos e automações. 2) Freelancer Full‑Stack (ago 2024 - atualmente) criando robôs Mercado Livre e dashboards React.",experiencia
+"Onde ele trabalhou?","Na ABL ‑ Aith Badari Luchin como Desenvolvedor Python; atuou como Freelancer Full‑Stack entre ago 2024 até hoje.",empresa
+"Qual a principal especialidade?","Combinar LangChain/LangGraph com Web‑Scraping e APIs para acelerar processos jurídicos e e‑commerce.",especialidade
+"Ele usa LangChain?","Sim, desde 2024. Implementa pipelines RAG, tool‑calling e fluxos multi‑etapa.",langchain
+"Ele integra quais APIs?","Google Drive API, Mercado Livre API, OpenAI, Gemini, Claude, serviços CAPTCHA.",apis
+"Visão computacional?","Fine‑tuning do YOLO v8 para detecção de descarte de lixo; experiência com OpenCV e MediaPipe.",visao
+"Disponibilidade?","Empregado como Desenvolvedor Python na ABL, porém aberto a novas oportunidades remotas, híbridas ou presenciais.",disponibilidade
